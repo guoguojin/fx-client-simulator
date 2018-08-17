@@ -1,0 +1,87 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FXClientSimulator.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FIXHostMD" Type="System.String" Scope="User">
+      <Value Profile="(Default)">localhost</Value>
+    </Setting>
+    <Setting Name="FIXPortMD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">14045</Value>
+    </Setting>
+    <Setting Name="SenderIdMD" Type="System.String" Scope="User">
+      <Value Profile="(Default)">CL1</Value>
+    </Setting>
+    <Setting Name="TargetIdMD" Type="System.String" Scope="User">
+      <Value Profile="(Default)">APAMA_ECOM_RATES</Value>
+    </Setting>
+    <Setting Name="FIXHostTD" Type="System.String" Scope="User">
+      <Value Profile="(Default)">localhost</Value>
+    </Setting>
+    <Setting Name="FIXPortTD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">14040</Value>
+    </Setting>
+    <Setting Name="SenderIdTD" Type="System.String" Scope="User">
+      <Value Profile="(Default)">CL1</Value>
+    </Setting>
+    <Setting Name="TargetIdTD" Type="System.String" Scope="User">
+      <Value Profile="(Default)">APAMA_ECOM_ORDERS</Value>
+    </Setting>
+    <Setting Name="FIXHostRFQ" Type="System.String" Scope="User">
+      <Value Profile="(Default)">localhost</Value>
+    </Setting>
+    <Setting Name="FIXPortRFQ" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">14050</Value>
+    </Setting>
+    <Setting Name="SenderIdRFQ" Type="System.String" Scope="User">
+      <Value Profile="(Default)">CL1</Value>
+    </Setting>
+    <Setting Name="TargetIdRFQ" Type="System.String" Scope="User">
+      <Value Profile="(Default)">APAMA_ECOM_RFQ</Value>
+    </Setting>
+    <Setting Name="EncryptionMethodMD" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="HeartbeatIntervalMD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">30</Value>
+    </Setting>
+    <Setting Name="ResetSequenceNumberMD" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="EncryptionMethodTD" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="HeartbeatIntervalTD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">30</Value>
+    </Setting>
+    <Setting Name="ResetSequenceNumberTD" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="EncryptionMethodRFQ" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="HeartbeatIntervalRFQ" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">30</Value>
+    </Setting>
+    <Setting Name="ResetSequenceNumberRFQ" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="MDLogPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">marketDataLog.log</Value>
+    </Setting>
+    <Setting Name="TDLogPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">tradeDataLog.log</Value>
+    </Setting>
+    <Setting Name="RFQLogPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">rfqDataLog.log</Value>
+    </Setting>
+    <Setting Name="DefaultAccount" Type="System.String" Scope="User">
+      <Value Profile="(Default)">FXAGG</Value>
+    </Setting>
+    <Setting Name="AutoConnect" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="OnBehalfOf" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
